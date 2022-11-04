@@ -5,12 +5,12 @@ function Footer() {
   return (
  <footer>
     <div class="footer-content">
-    <h3><Link to='/'></Link>MediaWiki</h3>
-    <p>Open Source hub for softwares.</p>
+    <h3><Link to='/'></Link>Wikimedia</h3>
+    <p>Open Source hub.</p>
     
   </div>
 <div class="footer-bottom">
-  <p>copyright &copy;2022 <a href="#">MediaWiki Foundation</a>  </p>
+  <p><a href="#">Wikimedia Foundation</a></p>
   <div class="footer-menu">
  <ul class="f-menu">
     <li><Link to="/">Home</Link></li>

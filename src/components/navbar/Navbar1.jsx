@@ -11,7 +11,7 @@ function Navbar1() {
       <label for="check" class="checkbtn">
         <MenuIcon/>
       </label>
-      <label class="logo">MediaWiki</label>
+      <label class="logo">Wikimedia</label>
       <ul>
         <li ><Link to="/" >Home</Link></li>
         <li><Link to='/Tasks'>Tasks</Link></li>

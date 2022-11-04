@@ -5,13 +5,13 @@ function Body() {
     <section class="hero">
       <div class="intro-text">
         <h1>
-          <span class="hear"> MediaWiki helps you collect and organize knowledge and </span> <br />
+          <span class="hear"> Wikimedia helps you collect and organize knowledge and </span> <br />
           <span class="connecting">  make it available to people.</span>
         </h1>
         <p>
-          It's powerful, multilingual, free and open, extensible, customizable, reliable, and free of charge. Find out more and if MediaWiki is right for you.
+          It's powerful, multilingual, free and open, extensible, customizable, reliable, and free of charge. Find out more and if WikiMedia is right for you.
         </p>
-        <a class="btn red" href="https://www.mediawiki.org/wiki/MediaWiki">Learn More</a>
+        <a class="btn red" href="https://www.WikiMedia.org/wiki/WikiMedia">Learn More</a>
         
       </div>
       <div class="i-frame">

@@ -8,10 +8,10 @@ function About() {
                 <div class="top-box">
                     <div class="content-box">
                         <h1>
-                            About MediaWiki
+                            About Wikimedia
                         </h1>
                         <p>
-                           MediaWiki is the free open-source wiki software used to power Wikipedia and thousands of wikis.  <br /> Our mission is to make the world more inclusive through free education.
+                           Wikimedia is a free open-source wiki software used to power Wikipedia, thousands of wikis.  <br /> Our mission is to make the world more inclusive through free education.
                         </p>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ function About() {
             <div class="container-divider"></div>
             <div class="our-tech-container">
                 <h3 class="text-center">
-                    MediaWiki Histroy
+                    Wikimedia Histroy
                 </h3>
                 <p>
                     Wikipedia was launched in January 2001. At the time, it was mostly an experiment, to try to boost the production of content for Nupedia, a free-content, but peer-reviewed, encyclopedia created by Jimmy Wales. Because it was an experiment, Wikipedia was originally powered by UseModWiki, an existing GPL wiki engine written in Perl, using CamelCase and storing all pages in individual text files with no history of changes made.
