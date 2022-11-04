@@ -18,15 +18,15 @@ function About() {
             </div>
             <div class="img-layer-container">
                 <div class="team-image" id="team-image">
-                    <img src="https://apimatic.io/img/theme/aboutUs/images-1.png" />
+                    <img src="https://apimatic.io/img/theme/aboutUs/images-1.png" alt='Background Img' />
                 </div>
 
                 <div class="circles-container">
                     <div class="img-1">
-                        <img src="https://apimatic.io/img/theme/aboutUs/Circles-1-1.svg" />                        
+                        <img src="https://apimatic.io/img/theme/aboutUs/Circles-1-1.svg" alt='Background Img' />                        
                     </div>
                     <div class="img-2">
-                        <img src="https://apimatic.io/img/theme/aboutUs/Circles-2-1.svg" />                        
+                        <img src="https://apimatic.io/img/theme/aboutUs/Circles-2-1.svg" alt='Background Img'/>                        
                     </div>                    
                 </div>           
             </div>
