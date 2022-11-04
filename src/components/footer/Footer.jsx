@@ -10,7 +10,7 @@ function Footer() {
     
   </div>
 <div class="footer-bottom">
-  <p><a href="#">Wikimedia Foundation</a></p>
+  <p><a href="https://wikimediafoundation.org">Wikimedia Foundation</a></p>
   <div class="footer-menu">
  <ul class="f-menu">
     <li><Link to="/">Home</Link></li>
