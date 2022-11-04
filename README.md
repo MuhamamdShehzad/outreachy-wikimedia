@@ -16,13 +16,6 @@ The projects is having separate components and pages as following.
 
 ![Capture](https://user-images.githubusercontent.com/76274596/199759223-5392a96f-6505-4ba8-832f-8ecd6eaf21a6.JPG)
 
-## Screenshots
-![Capture1](https://user-images.githubusercontent.com/76274596/199760812-84cfc9af-b2f6-4be6-a7f2-093844a84483.JPG)
-
-![Capture 3JPG](https://user-images.githubusercontent.com/76274596/199760905-d5b268d8-0f73-4d01-a8fa-47ecc23da992.JPG)
-
-![Capture2](https://user-images.githubusercontent.com/76274596/199760870-0cfdc81e-b72c-4d72-930d-9d7bb03e9400.JPG)
-
 ## Features
  This project has having following features.
 
