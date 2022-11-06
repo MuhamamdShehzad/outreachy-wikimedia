@@ -1,7 +1,7 @@
 
 # Setup Frontend Web App for Toolhub records management.
 
-A brief description of what this project does and who it's for.
+A brief description of what this project does.
 
 **Note** : All the data used in the project is static and anonymous. 
 
