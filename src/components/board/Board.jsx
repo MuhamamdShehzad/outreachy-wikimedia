@@ -44,10 +44,8 @@ useEffect(()=>{
             <h2 className='t1'>Users</h2>
             <input type="text" placeholder='Search User' className='searchBar' onChange={handleSeacrh}/>
             <h2 >Edits</h2>
-        </div>
-        
+        </div>   
         <Profiles Leaderboard={between(Leaderboard, period,query)} query={query}></Profiles>
-
     </div>
   )
 }
