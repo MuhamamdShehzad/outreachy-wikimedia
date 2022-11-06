@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/76274596/199922301-71aa3959-3da0-45f2-
 
 ## Folder Hierarchy
 
-The projects is having separate components and pages as following.
+The projects is having separate components and thier tests and pages as following.
 
 ![Capture](https://user-images.githubusercontent.com/76274596/199759223-5392a96f-6505-4ba8-832f-8ecd6eaf21a6.JPG)
 
@@ -22,6 +22,7 @@ The projects is having separate components and pages as following.
 - Tasks
 - Dashboard
 - Leaderboard
+- Unit Testing 
 
 ## Documentation
 
@@ -67,7 +68,7 @@ In the Leaderboard page, I called the three components as following:
 
 ## Tech Stack
 
-**Client:** Html CSS Javascript React, Redux, Material UI
+**Client:** Html CSS Javascript React, Redux, Material UI, Jest
 
 **Server:** Netlify
 
