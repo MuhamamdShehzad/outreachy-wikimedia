@@ -2,19 +2,19 @@ import React from 'react'
 import './body.scss'
 function Body() {
   return (
-    <section class="hero">
-      <div class="intro-text">
+    <section className="hero">
+      <div className="intro-text">
         <h1>
-          <span class="hear"> Wikimedia helps you collect and organize knowledge and </span> <br />
-          <span class="connecting">  make it available to people.</span>
+          <span className="hear"> Wikimedia helps you collect and organize knowledge and </span> <br />
+          <span className="connecting">  make it available to people.</span>
         </h1>
         <p>
           It's powerful, multilingual, free and open, extensible, customizable, reliable, and free of charge. Find out more and if WikiMedia is right for you.
         </p>
-        <a class="btn red" href="https://www.WikiMedia.org/wiki/WikiMedia">Learn More</a>
+        <a className="btn red" href="https://www.WikiMedia.org/wiki/WikiMedia">Learn More</a>
         
       </div>
-      <div class="i-frame">
+      <div className="i-frame">
         <iframe
           width="560"
           height="315"
@@ -23,8 +23,8 @@ function Body() {
           frameborder="10"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         ></iframe>
-        <div class="stand-1"></div>
-        <div class="stand-2"></div>
+        <div className="stand-1"></div>
+        <div className="stand-2"></div>
       </div>
     </section>
   )
